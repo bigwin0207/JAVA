@@ -17,9 +17,9 @@ public class Application {
         monster3.setHp(-200);
 
         System.out.println("monster1 = " + monster1.getInfo());
-        System.out.println("monster2.getInfo() = " + monster2.getInfo());
-        System.out.println("monster3.getInfo() = " + monster3.getInfo());
-        
+        System.out.println("monster2 = " + monster2.getInfo());
+        System.out.println("monster3 = " + monster3.getInfo());
+
         monster3.kinds = "망나뇽";
         monster3.hp = - 500;
 

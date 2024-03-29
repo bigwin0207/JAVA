@@ -5,7 +5,7 @@ public class Application {
 
         /* 필드에 직접 접근하는 경우 발생할 수 있는 문제점을 이해할 수 있다.*/
 
- /*       Monster monster1 = new Monster();
+       /* Monster monster1 = new Monster();
         monster1.name = "피카츄";
         monster1.hp = 100;
 
