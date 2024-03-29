@@ -5,42 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfd52ae-e35a-46d1-ab08-06fef3bb5e12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section01/section01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/section02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section07/kindsofvariable/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section07/kindsofvariable/KindsOfVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section08/initblock/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section08/initblock/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section01/user_type/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section01/user_type/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/encapsulation/problem2/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/encapsulation/problem2/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/encapsulation/problem3/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/encapsulation/problem3/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/encapsulation/problem3/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section02/encapsulation/problem3/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/chap06-class-and-object-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/com/ohgiraffers/section02/encapsulation/problem3/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/com/ohgiraffers/section02/encapsulation/problem3/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/com/ohgiraffers/section02/encapsulation/problem3/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/com/ohgiraffers/section02/encapsulation/problem3/Monster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/out/production/chap06-class-and-object-lecture-source/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/out/production/chap06-class-and-object-lecture-source/chap06-class-and-object-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section01/literal/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/ohgiraffers/section01/literal/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/com/ohgiraffers/section08/initblock/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/com/ohgiraffers/section08/initblock/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/com/ohgiraffers/section08/initblock/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/out/production/chap06-class-and-object-lecture-source/com/ohgiraffers/section08/initblock/Product.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +38,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -81,30 +52,33 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Application1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Application2.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.01_JAVA [:Appication1.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.01_JAVA [:Application1.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.01_JAVA [:Application2.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hi/Desktop/dev/01_JAVA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.Application1.executor": "Run",
+    "Application.Application2.executor": "Run",
+    "Application.Application4.executor": "Run",
+    "Gradle.01_JAVA [:Appication1.main()].executor": "Run",
+    "Gradle.01_JAVA [:Application1.main()].executor": "Run",
+    "Gradle.01_JAVA [:Application2.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,6 +111,13 @@
       <workItem from="1711689952685" duration="208000" />
       <workItem from="1711690169727" duration="11000" />
       <workItem from="1711698226900" duration="17000" />
+      <workItem from="1711699080184" duration="49000" />
+      <workItem from="1711699256861" duration="40000" />
+      <workItem from="1711699335291" duration="555000" />
+      <workItem from="1711699936862" duration="210000" />
+      <workItem from="1711700155751" duration="661000" />
+      <workItem from="1711700825503" duration="512000" />
+      <workItem from="1711701344990" duration="10000" />
     </task>
     <servers />
   </component>

@@ -23,7 +23,7 @@ public class Application {
         * */
         Product product = new Product();
         /* 1. 자료형별 기본값으로 초기화 된 내용확인.*/
-        // System.out.println("getInformation.getInformation" + product.getInformation());
+         System.out.println("getInformation.getInformation" + product.getInformation());
 
         /* 2. 명시적 초기화로 필드 초기화 확인*/
         System.out.println("getInformation.getInformation" + product.getInformation() );

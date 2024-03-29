@@ -30,10 +30,7 @@ public class Product {
 
     }
 
-    public String getInformation(){
-        return "product [name=]" + this.name + ", price =" + this.price + ", brand ="
-                + Product.brand + "]";
-    }
+
 
 
     static{
@@ -57,6 +54,11 @@ public class Product {
         this.name = name;
         this.price = price;
         Product.brand = brand;
-        System.out.println("매개변수가 있는 생성자");
+        System.out.println("매개변수가 있는 생성자 호출됨");
+    }
+    public String getInformation(){
+
+        return "Product [name=" + this.name + ", price="+this.price +",brand ="
+                +Product.brand+"]";
     }
 }

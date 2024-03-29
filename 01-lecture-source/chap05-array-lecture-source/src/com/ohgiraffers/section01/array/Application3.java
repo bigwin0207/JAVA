@@ -32,7 +32,7 @@ public class Application3 {
         * 블럭을 이용하는 경우에는 new를 사용하지 않아도 되며 값의 갯수만큼 자동으로 크기가 설정된다.
         * */
 
-        int[] iarr2 ={11, 22, 33, 44, 55};
+        int[] iarr2 = {11, 22, 33, 44, 55};
         System.out.println("iarr2.length = " + iarr2.length);
 
         for(int i = 0; i < iarr2.length; i++){
