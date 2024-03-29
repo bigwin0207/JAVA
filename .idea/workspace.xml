@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccfd52ae-e35a-46d1-ab08-06fef3bb5e12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section06/singleton/EagerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section06/singleton/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section06/singleton/Application.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/01-lecture-source" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eDbFkojlGPwLnlwYGT5hpfTwMR" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application1.executor": "Run",
+    "Application.Application2.executor": "Run",
+    "Gradle.01_JAVA [:Appication1.main()].executor": "Run",
+    "Gradle.01_JAVA [:Application1.main()].executor": "Run",
+    "Gradle.01_JAVA [:Application2.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-4caba194b151-b3785831" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccfd52ae-e35a-46d1-ab08-06fef3bb5e12" name="Changes" comment="" />
+      <created>1711441994468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711441994468</updated>
+      <workItem from="1711441995543" duration="407000" />
+      <workItem from="1711442409772" duration="12000" />
+      <workItem from="1711442524980" duration="62000" />
+      <workItem from="1711444516858" duration="32000" />
+      <workItem from="1711444557437" duration="39000" />
+      <workItem from="1711444620452" duration="61000" />
+      <workItem from="1711678134303" duration="15000" />
+      <workItem from="1711678263097" duration="9000" />
+      <workItem from="1711679900161" duration="9000" />
+      <workItem from="1711679980604" duration="73000" />
+      <workItem from="1711681287059" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
