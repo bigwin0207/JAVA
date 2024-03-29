@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccfd52ae-e35a-46d1-ab08-06fef3bb5e12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section06/singleton/EagerSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section06/singleton/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section06/singleton/Application.java" afterDir="false" />
-    </list>
+    <list default="true" id="ccfd52ae-e35a-46d1-ab08-06fef3bb5e12" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,33 +38,34 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2eDbFkojlGPwLnlwYGT5hpfTwMR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application1.executor": "Run",
-    "Application.Application2.executor": "Run",
-    "Gradle.01_JAVA [:Appication1.main()].executor": "Run",
-    "Gradle.01_JAVA [:Application1.main()].executor": "Run",
-    "Gradle.01_JAVA [:Application2.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application2.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.01_JAVA [:Appication1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.01_JAVA [:Application1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.01_JAVA [:Application2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hi/Desktop/dev/01_JAVA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,6 +92,9 @@
       <workItem from="1711679900161" duration="9000" />
       <workItem from="1711679980604" duration="73000" />
       <workItem from="1711681287059" duration="804000" />
+      <workItem from="1711689085016" duration="32000" />
+      <workItem from="1711689132557" duration="5000" />
+      <workItem from="1711689230534" duration="15000" />
     </task>
     <servers />
   </component>
