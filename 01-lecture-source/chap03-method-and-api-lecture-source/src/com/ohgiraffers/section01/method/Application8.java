@@ -15,6 +15,7 @@ public class Application8 {
 
         System.out.println("10과 20의 합 : " + sumTwoNum(10,20));
 
+
     }
 
     public static int sumTwoNum(int first, int second){

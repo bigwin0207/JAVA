@@ -23,7 +23,7 @@ public class Application2 {
         System.out.println("50과 60 중 더 작은 값은 : " + min);
 
         /*2. static method의 경우*/
-        int max = maxNumberOf(50, 60);
+        int max = Calculator.maxNumberOf(50, 60);
 
         System.out.println("50과 60 중 더 큰 값은 : " + max);
 

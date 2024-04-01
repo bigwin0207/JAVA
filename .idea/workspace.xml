@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfd52ae-e35a-46d1-ab08-06fef3bb5e12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testProject/src/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application6.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/src/com/ohgiraffers/section01/array/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/src/com/ohgiraffers/section01/array/Application2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/src/com/ohgiraffers/section01/array/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/src/com/ohgiraffers/section01/array/Application3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section05/overloading/OverloadingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section05/overloading/OverloadingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application8.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section02/package_and_import/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section02/package_and_import/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section04/scanner/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section04/scanner/Application3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
     "Application.Application4.executor": "Run",
     "Application.Application5.executor": "Run",
     "Application.Application6.executor": "Run",
+    "Application.Application8.executor": "Run",
     "Application.test.executor": "Run",
     "Gradle.01_JAVA [:Appication1.main()].executor": "Run",
     "Gradle.01_JAVA [:Application1.main()].executor": "Run",

@@ -32,7 +32,6 @@ public class Application6 {
 
     public String testMethod(){
 
-
         return"hello world";
 
     }
