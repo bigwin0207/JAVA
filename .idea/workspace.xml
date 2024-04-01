@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfd52ae-e35a-46d1-ab08-06fef3bb5e12" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap01-literal-and-variable-lecture-source/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap01-literal-and-variable-lecture-source/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/ohgiraffers/section01/method/Application4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section02/superKeyword/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section02/superKeyword/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section02/superKeyword/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section03/overriding/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section03/overriding/SuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/.idea/01-lecture-source.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/.idea/01-lecture-source.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/00_testProject/00_testProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap02-operator-lecture-source/chap02-operator-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/chap03-method-and-api-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap04-control-flow-lecture-source/chap04-control-flow-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/chap05-array-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/chap06-class-and-object-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap07-object-array-lecture-source/chap07-object-array-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/chap08-inheritance-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/ohgiraffers/section01/method/Application4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testProject/testProject.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,33 +70,48 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Application1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Application2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Application4.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.01_JAVA [:Appication1.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.01_JAVA [:Application1.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.01_JAVA [:Application2.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hi/Desktop/dev/01_JAVA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.Application1.executor": "Run",
+    "Application.Application2.executor": "Run",
+    "Application.Application4.executor": "Run",
+    "Gradle.01_JAVA [:Appication1.main()].executor": "Run",
+    "Gradle.01_JAVA [:Application1.main()].executor": "Run",
+    "Gradle.01_JAVA [:Application2.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="01_JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="01_JAVA" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -118,6 +152,9 @@
       <workItem from="1711700825503" duration="512000" />
       <workItem from="1711701344990" duration="10000" />
       <workItem from="1711931362957" duration="127000" />
+      <workItem from="1711956261601" duration="63000" />
+      <workItem from="1711956375766" duration="15000" />
+      <workItem from="1711956762835" duration="41000" />
     </task>
     <servers />
   </component>
