@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfd52ae-e35a-46d1-ab08-06fef3bb5e12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section02/superKeyword/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section02/superKeyword/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section02/superKeyword/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section03/overriding/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/src/com/ohgiraffers/section03/overriding/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProject/src/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/.idea/01-lecture-source.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/.idea/01-lecture-source.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/00_testProject/00_testProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap02-operator-lecture-source/chap02-operator-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/chap03-method-and-api-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap04-control-flow-lecture-source/chap04-control-flow-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/chap05-array-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/chap06-class-and-object-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap07-object-array-lecture-source/chap07-object-array-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap08-inheritance-lecture-source/chap08-inheritance-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JAVA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/ohgiraffers/section01/method/Application4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/testProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application6.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/src/com/ohgiraffers/section01/array/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/src/com/ohgiraffers/section01/array/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/src/com/ohgiraffers/section01/array/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap05-array-lecture-source/src/com/ohgiraffers/section01/array/Application3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section05/overloading/OverloadingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-lecture-source/chap06-class-and-object-lecture-source/src/com/ohgiraffers/section05/overloading/OverloadingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testProject/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +36,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -64,7 +57,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2eDbFkojlGPwLnlwYGT5hpfTwMR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -75,7 +70,11 @@
     "Application.Application.executor": "Run",
     "Application.Application1.executor": "Run",
     "Application.Application2.executor": "Run",
+    "Application.Application3.executor": "Run",
     "Application.Application4.executor": "Run",
+    "Application.Application5.executor": "Run",
+    "Application.Application6.executor": "Run",
+    "Application.test.executor": "Run",
     "Gradle.01_JAVA [:Appication1.main()].executor": "Run",
     "Gradle.01_JAVA [:Application1.main()].executor": "Run",
     "Gradle.01_JAVA [:Application2.main()].executor": "Run",
@@ -154,7 +153,7 @@
       <workItem from="1711931362957" duration="127000" />
       <workItem from="1711956261601" duration="63000" />
       <workItem from="1711956375766" duration="15000" />
-      <workItem from="1711956762835" duration="41000" />
+      <workItem from="1711956762835" duration="5820000" />
     </task>
     <servers />
   </component>

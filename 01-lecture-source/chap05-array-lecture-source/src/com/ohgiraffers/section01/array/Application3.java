@@ -28,6 +28,8 @@ public class Application3 {
             System.out.println("iarr[" + i + "]의 값 : " + iarr[i]);
         }
 
+        System.out.println("============");
+
         /* 자바에서 지정한 기본값 외의 값을 초기화하고 싶은 경우 블럭을 이용한다.
         * 블럭을 이용하는 경우에는 new를 사용하지 않아도 되며 값의 갯수만큼 자동으로 크기가 설정된다.
         * */
