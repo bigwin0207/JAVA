@@ -6,7 +6,7 @@ public class Application {
 
         /* 1.private에 필드에 직접 접근하여   compile error를 발생 확인*/
         Monster monster1 = new Monster();
-/*        monster1.kinds = "피카츄"; //에러발생
+        /*monster1.kinds = "피카츄"; //에러발생
         monster1.hp = 200;*/ //에러발생
 
         /* 2. public메소드를 이용하여 필드에 간접 접근*/

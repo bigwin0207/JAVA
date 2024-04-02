@@ -18,9 +18,9 @@ public class Application {
         User user1 = new User();
         System.out.println(user1.getinformation());
 
-/*        *//*매개변수를 전달 받는 생성자를 호출해 인스턴스 생성 후 필드값 출력*//*
+        /*매개변수를 전달 받는 생성자를 호출해 인스턴스 생성 후 필드값 출력*/
         User user2 = new User("user01", "pass01","홍길동");
-        System.out.println(user2.getinformation());*/
+        System.out.println(user2.getinformation());
 
     }
 }
