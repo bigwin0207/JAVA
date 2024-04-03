@@ -12,14 +12,14 @@ public class Application2 {
 		/* 필드값 가져오기 */
 		LocalTime localTime = LocalTime.now();
 
-		System.out.println("localTime : " + localTime);
+		System.out.println("localTime : " + localTime); //현재시간 나노초까지 호출
 		System.out.println("시간 : " + localTime.getHour());
 		System.out.println("분 : " + localTime.getMinute());
 		System.out.println("초 : " + localTime.getSecond());
 		System.out.println("나노초 : " + localTime.getNano());
 
 		LocalDate localDate = LocalDate.now();
-		System.out.println("localDate : " + localDate);
+		System.out.println("localDate : " + localDate); // 현재 날짜가 호출
 		System.out.println("년 : " + localDate.getYear());
 		System.out.println("월 : " + localDate.getMonth());
 		System.out.println("월 숫자 : " + localDate.getMonthValue());
@@ -27,7 +27,7 @@ public class Application2 {
 		System.out.println("1년 중에 몇 번째 일 : " + localDate.getDayOfYear());
 		System.out.println("한 주의 몇 번째 일 : " + localDate.getDayOfWeek());
 
-		ZonedDateTime zonedDateTime = ZonedDateTime.now();
+		ZonedDateTime zonedDateTime = ZonedDateTime.now(); //현재날짜와 시간 24시 시간 나노초 시차와 지역까지 호출된다.
 		System.out.println("zonedDateTime : " + zonedDateTime);
 		System.out.println("zone 정보 : " + zonedDateTime.getZone());
 		System.out.println("시차 : " + zonedDateTime.getOffset());

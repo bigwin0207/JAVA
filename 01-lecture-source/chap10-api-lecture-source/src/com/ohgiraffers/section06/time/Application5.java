@@ -17,9 +17,9 @@ public class Application5 {
 		LocalDate localDate = LocalDate.parse(dateNow);
 		LocalDateTime localDateTime = LocalDateTime.parse(dateNow + "T" + timeNow);
 
-		System.out.println(localTime);
-		System.out.println(localDate);
-		System.out.println(localDateTime);
+		System.out.println(localTime); //14:05:10
+		System.out.println(localDate); //2022-10-12
+		System.out.println(localDateTime); //2022-10-12T14:05:10
 
 		String timeNow2 = "14-05-10";
 		String dateNow2 = "221005";
@@ -27,13 +27,13 @@ public class Application5 {
 		LocalTime localTime2 = LocalTime.parse(timeNow2, DateTimeFormatter.ofPattern("HH-mm-ss"));
 		LocalDate localDate2 = LocalDate.parse(dateNow2, DateTimeFormatter.ofPattern("yyMMdd"));
 
-		System.out.println(localTime2);
-		System.out.println(localDate2);
+		System.out.println(localTime2); //14:05:10
+		System.out.println(localDate2); //2022-10-05
 
 		String dateFormat = localDate.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"));
 		String timeFormat = localTime.format(DateTimeFormatter.ofPattern("HH mm"));
 
-		System.out.println(dateFormat);
-		System.out.println(timeFormat);
+		System.out.println(dateFormat); //2022-10-12
+		System.out.println(timeFormat); //14 05
 	}
 }

@@ -26,25 +26,25 @@ public class Application1 {
 		LocalTime timeNow = LocalTime.now();
 		LocalTime timeOf = LocalTime.of(18, 30, 0);
 		
-		System.out.println("timeNow : " + timeNow);
-		System.out.println("timeOf : " + timeOf);
+		System.out.println("timeNow : " + timeNow); //현재시간 출력
+		System.out.println("timeOf : " + timeOf); // 위에서 18,30,0 으로 대입했기 때문에 18:30 출력
 		
 		LocalDate dateNow = LocalDate.now();
 		LocalDate dateOf = LocalDate.of(2023, 1, 19);
 		
-		System.out.println("dateNow : " + dateNow);
-		System.out.println("dateOf : " + dateOf);
+		System.out.println("dateNow : " + dateNow); // 오늘 날짜 출력
+		System.out.println("dateOf : " + dateOf); // 위에서 2023,1,19 로 대입했기 때문에 2023-01-19 출력
 		
 		LocalDateTime dateTimeNow = LocalDateTime.now();
 		LocalDateTime dateTimeOf = LocalDateTime.of(dateNow, timeNow);
 		
-		System.out.println("dateTimeNow : " + dateTimeNow);
-		System.out.println("dateTimeOf : " + dateTimeOf);
+		System.out.println("dateTimeNow : " + dateTimeNow); // 현재날짜와 시간이  'YYYY-MM-DDTHH:mm:ss.sss' 형식으로 출력 sss는  나노초
+		System.out.println("dateTimeOf : " + dateTimeOf); // 위와 같다.
 		
 		ZonedDateTime zonedDateTimeNow = ZonedDateTime.now();
 		ZonedDateTime zonedDateTimeOf = ZonedDateTime.of(dateOf, timeOf, ZoneId.of("Asia/Seoul"));
 		
-		System.out.println("zonedDateTimeNow : " + zonedDateTimeNow);
-		System.out.println("zonedDateTimeOf : " + zonedDateTimeOf);
+		System.out.println("zonedDateTimeNow : " + zonedDateTimeNow); //2024-04-03T16:45:53.044991200+09:00[Asia/Seoul] 시차와 지역까지 호출
+		System.out.println("zonedDateTimeOf : " + zonedDateTimeOf); // (dateOf, timeOf, ZoneId.of("Asia/Seoul")); 설정값대로 나노초 빼고 호출된다.
 	}
 }

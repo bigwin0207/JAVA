@@ -17,8 +17,8 @@ public class Application4 {
 		LocalDateTime future = LocalDateTime.of(2024, 12, 25, 12, 0, 0);
 		ZonedDateTime now = ZonedDateTime.now();
 		
-		System.out.println(localDate.isAfter(past));
-		System.out.println(localDateTime.isBefore(future));
-		System.out.println(zonedDateTime.isEqual(now));
+		System.out.println(localDate.isAfter(past)); //과거
+		System.out.println(localDateTime.isBefore(future)); //미래
+		System.out.println(zonedDateTime.isEqual(now)); // 현재
 	}
 }
