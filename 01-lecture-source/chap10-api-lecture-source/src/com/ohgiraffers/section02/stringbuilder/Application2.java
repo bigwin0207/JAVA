@@ -55,7 +55,7 @@ public class Application2 {
 
         /*
         * String 클래스와 동일한 메소드도 있다.
-        * charAt(), indexOf() / lastIndexOf(), length(), replace(), substring(), toString() 
+        * charAt(), indexOf() / lastIndexOf(), length(), replace(), substring(), toString()
         * */
         
     }
