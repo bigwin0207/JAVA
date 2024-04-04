@@ -46,7 +46,7 @@ public class Application1 {
         int inum = 20;
         Integer integerNum1 = new Integer(20);
         Integer integerNum2 = new Integer(20);
-        Integer integerNum3 =  20;
+        Integer integerNum3 = 20;
         Integer integerNum4 = 20;
 
         System.out.println("int와 Integer" + (inum == integerNum1)); //true
