@@ -106,7 +106,7 @@ public class Application1 {
 
         // 출력 예시
         String javaoracle = "javaoracle";
-        System.out.println("substring(3,6)" +javaoracle.substring(3,6)); // 3번째 문자열 부터 6번째 문자열 전까지 자른다.
+        System.out.println("substring(3,6)" +javaoracle.substring(3,6)); // aor  3번째 문자열 전까지 6번째 문자열 부터 자른다.
         System.out.println("substring(3)" + javaoracle.substring(3)); // 3번째 문자열전까지 자른다
 
         // 원본에는 영향을 주지 않는다.
@@ -115,7 +115,7 @@ public class Application1 {
         /* replace() : 문자열에서 대체할 문자열로 기존 문자열을 변경해서 변환한다. */
 
         // 출력 예시
-        System.out.println("replace() : " + javaoracle.replace("java","python")); //javapython
+        System.out.println("replace() : " + javaoracle.replace("oracle","python")); //javapython
 
         // 원본에는 영향을 주지 않는다.
         System.out.println("javaoracle : " + javaoracle);
