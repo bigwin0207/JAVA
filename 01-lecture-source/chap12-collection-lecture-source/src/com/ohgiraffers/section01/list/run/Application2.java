@@ -39,7 +39,7 @@ public class Application2 {
 
         /*
         * 익명 클래스는 뒤에 {}를 만들어서 인터페이스를 상속받는 클래스인데
-        *
+        * 이름이 없다고 생각하고 사용하는 것이다.
         * */
         bookList.sort(new Comparator<BookDTO>() { // 익명클래스
             @Override
