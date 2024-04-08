@@ -7,7 +7,7 @@ public class MusicManager {
 
     /* 음악 목록이 저장 되는 리스트  */
     private List<MusicDTO> musicList = new ArrayList<>();
-
+  
     /* 곡 추가 */
     public void addList(MusicDTO music) {
         musicList.add(music);
