@@ -191,7 +191,7 @@ public class MusicMenu {
         } else {
             System.out.println("삭제할 곡을 찾지 못했습니다.");
         }
-        sc.nextLine();
+
     }
 
 }
