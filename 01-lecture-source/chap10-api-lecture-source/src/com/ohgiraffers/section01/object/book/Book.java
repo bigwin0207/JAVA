@@ -103,7 +103,7 @@ public class Book {
 
         result = PRIME * result + this.num;
 
-        result =  PRIME * result + this.title.hashCode();
+        result = PRIME * result + this.title.hashCode();
 
         result = PRIME * result + this.author.hashCode();
 
